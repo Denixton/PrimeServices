@@ -1,0 +1,12 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="Any CPU" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution PrimeServices[PrimeServices[]PrimeServices.Tests[]PrimeServiceWinForm[]]]&#xD;&#xA;Solution PrimeServices\PrimeServices\The default XML namespace of the project must be the MSBuild XML namespace. If the project is authored in the MSBuild 2003 format, please add xmlns=&quot;http://schemas.microsoft.com/developer/msbuild/2003&quot; to the &lt;Project&gt; element. If the project has been authored in the old 1.0 or 1.2 format, please convert it to MSBuild 2003 format.  C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\PrimeServices.csproj&#xD;&#xA;Solution PrimeServices" />
+  <StartupProject value="" />
+</Properties>

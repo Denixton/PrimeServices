@@ -1,0 +1,11 @@
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\bin\Debug\netcoreapp3.1\PrimeServices.exe
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\bin\Debug\netcoreapp3.1\PrimeServices.deps.json
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\bin\Debug\netcoreapp3.1\PrimeServices.runtimeconfig.json
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\bin\Debug\netcoreapp3.1\PrimeServices.runtimeconfig.dev.json
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\bin\Debug\netcoreapp3.1\PrimeServices.dll
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\bin\Debug\netcoreapp3.1\PrimeServices.pdb
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\obj\Debug\netcoreapp3.1\PrimeServices.csprojAssemblyReference.cache
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\obj\Debug\netcoreapp3.1\PrimeServices.AssemblyInfoInputs.cache
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\obj\Debug\netcoreapp3.1\PrimeServices.AssemblyInfo.cs
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\obj\Debug\netcoreapp3.1\PrimeServices.dll
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServices\obj\Debug\netcoreapp3.1\PrimeServices.pdb

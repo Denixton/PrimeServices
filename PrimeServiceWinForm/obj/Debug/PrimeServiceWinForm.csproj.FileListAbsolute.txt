@@ -1,0 +1,8 @@
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\bin\Debug\PrimeServiceWinForm.exe.config
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\bin\Debug\PrimeServiceWinForm.exe
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\bin\Debug\PrimeServiceWinForm.pdb
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\obj\Debug\PrimeServiceWinForm.Form1.resources
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\obj\Debug\PrimeServiceWinForm.Properties.Resources.resources
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\obj\Debug\PrimeServiceWinForm.csproj.GenerateResource.cache
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\obj\Debug\PrimeServiceWinForm.exe
+C:\Users\Даниил\source\repos\PrimeServices\PrimeServiceWinForm\obj\Debug\PrimeServiceWinForm.pdb

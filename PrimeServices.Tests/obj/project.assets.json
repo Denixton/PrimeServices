@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PrimeServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PrimeServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeServices/1.0.0": {
+      "type": "project",
+      "path": "../PrimeServices/PrimeServices.csproj",
+      "msbuildProject": "../PrimeServices/PrimeServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PrimeServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Denik\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Denik\\Desktop\\PrimeServices\\PrimeServices.Tests\\PrimeServices.Tests.csproj",
+      "projectName": "PrimeServices.Tests",
+      "projectPath": "C:\\Users\\Denik\\Desktop\\PrimeServices\\PrimeServices.Tests\\PrimeServices.Tests.csproj",
+      "packagesPath": "C:\\Users\\Denik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Denik\\Desktop\\PrimeServices\\PrimeServices.Tests\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Denik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Denik\\Desktop\\PrimeServices\\PrimeServices\\PrimeServices.csproj": {
+              "projectPath": "C:\\Users\\Denik\\Desktop\\PrimeServices\\PrimeServices\\PrimeServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
